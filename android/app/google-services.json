@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "732645429919",
+    "project_id": "control-weather-app",
+    "storage_bucket": "control-weather-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732645429919:android:682407723ea5121ed508aa",
+        "android_client_info": {
+          "package_name": "com.example.weather_a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732645429919-arcln5n098skn1on732celr471jl3p0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-yfo_G6ZM7VJofsAPmj0nheXSABfHfrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732645429919-arcln5n098skn1on732celr471jl3p0t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "732645429919-bo7tof8m03utkkifg5md1ltr0jhi0sn0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weathera"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
